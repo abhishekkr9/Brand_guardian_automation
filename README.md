@@ -74,7 +74,7 @@ graph LR
     ```ini
     # Google Cloud Config
     GOOGLE_CLOUD_PROJECT=your-project-id
-    GOOGLE_CLOUD_LOCATION=asia-southeast1
+    GOOGLE_CLOUD_LOCATION=us-central1
     GCS_BUCKET_NAME=your-bucket-name
 
     # Vertex AI Config
@@ -150,4 +150,5 @@ The system features structured logging (`--- [Stage] Message ---`) for easy debu
 ## 📄 License
 
 [MIT License](LICENSE)
+
 
