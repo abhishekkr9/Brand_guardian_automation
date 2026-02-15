@@ -78,8 +78,8 @@ graph LR
     GCS_BUCKET_NAME=your-bucket-name
 
     # Vertex AI Config
-    VERTEX_AI_LOCATION=asia-southeast1
-    VERTEX_AI_MODEL_NAME=gemini-2.0-flash
+    VERTEX_AI_LOCATION=us-central1
+    VERTEX_AI_MODEL_NAME=gemini-2.5-flash
     
     # Vertex AI Search (RAG)
     VERTEX_SEARCH_LOCATION=global
@@ -150,3 +150,4 @@ The system features structured logging (`--- [Stage] Message ---`) for easy debu
 ## 📄 License
 
 [MIT License](LICENSE)
+
