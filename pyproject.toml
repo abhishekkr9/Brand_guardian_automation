@@ -1,0 +1,31 @@
+[project]
+name = "new-folder"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "google-auth",
+    "opentelemetry-exporter-gcp-trace",
+    "google-cloud-discoveryengine",
+    "google-cloud-storage",
+    "fastapi",
+    "firecrawl-py",
+    "langchain",
+    "langchain-community",
+    "langchain-openai",
+    "langgraph",
+    "langsmith",
+    "opentelemetry-instrumentation-fastapi",
+    "pandas",
+    "psycopg2-binary",
+    "pydantic",
+    "pypdf",
+    "python-dotenv",
+    "redis",
+    "requests",
+    "sqlalchemy",
+    "streamlit",
+    "uvicorn",
+    "yt-dlp",
+]
